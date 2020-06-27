@@ -8,8 +8,13 @@
 
 ---
 
-# v1.0.0
+# v1.0.1
 
-[下载链接](https://cloud.tsinghua.edu.cn/f/9fd09ae4a6fe4182a43b/?dl=1)
+[下载链接](https://cloud.tsinghua.edu.cn/f/7aa43a5433a44372a292/?dl=1)
+
+更新日志：
+- 增加Markdown支持；
+- 优化使用体验；
+- 解决了一些已知问题。
 
 **声明：本APP是第三方产品，但承诺不会以任何方式窃取用户的敏感信息。**
