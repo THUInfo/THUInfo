@@ -8,11 +8,14 @@
 
 ---
 
-# v1.0.1
+# v1.0.2
 
-[下载链接](https://cloud.tsinghua.edu.cn/f/7aa43a5433a44372a292/?dl=1)
+[下载链接](https://cloud.tsinghua.edu.cn/f/a41601a596d742809ede/?dl=1)
 
-更新日志：
+本次更新：
+- 修复了一些已知漏洞。
+
+近期更新：
 - 增加Markdown支持；
 - 优化使用体验；
 - 解决了一些已知问题。
