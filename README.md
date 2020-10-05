@@ -2,7 +2,7 @@
 
 请认准页面顶部的**THUInfo/THUInfo**。
 
-[Android下载链接](https://cloud.tsinghua.edu.cn/f/6e107f4a8c2541b38943/?dl=1)
+[Android下载链接](https://cloud.tsinghua.edu.cn/f/6e107f4a8c2541b38943)
 
 [iOS下载链接](https://apps.apple.com/cn/app/thu-info/id1533968428)
 
